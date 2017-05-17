@@ -66,9 +66,9 @@ public func presentationIndex(for pageViewController: UIPageViewController) -> I
 
 ## Links
 
-  *  [API Reference::UIPageViewController](https://developer.apple.com/reference/uikit/uipageviewcontroller)
-  *  [API Reference::UIPageViewControllerDataSource](https://developer.apple.com/reference/uikit/uipageviewcontrollerdatasource)
-  *  [API Reference::UIPageViewControllerDelegate](https://developer.apple.com/reference/uikit/uipageviewcontrollerdelegate)
+  *  [API Reference: UIPageViewController](https://developer.apple.com/reference/uikit/uipageviewcontroller)
+  *  [API Reference: UIPageViewControllerDataSource](https://developer.apple.com/reference/uikit/uipageviewcontrollerdatasource)
+  *  [API Reference: UIPageViewControllerDelegate](https://developer.apple.com/reference/uikit/uipageviewcontrollerdelegate)
 
 ## Example
 
